@@ -9,7 +9,7 @@ getgenv().Index = {
                 ['Keybind'] = 'V',
                 ['Active'] = false,
                 ['Acceleration'] = 0.0,
-                ['Variety'] = 'First',
+                ['Variety'] = 'Third',
             },
         },
     }
